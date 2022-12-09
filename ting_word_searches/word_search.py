@@ -21,7 +21,7 @@ def exists_word(word, instance):
         if file:
             content.append(file)
         return content
-        
+
 
 def search_by_word(word, instance):
     """Aqui irá sua implementação"""
